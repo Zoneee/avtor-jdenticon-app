@@ -1,0 +1,12 @@
+D:\workstation\GitRepo\avtor-jdenticon\avtor-jdenticon\obj\Release\net5.0\PubTmp\Out\avtor-jdenticon.exe
+D:\workstation\GitRepo\avtor-jdenticon\avtor-jdenticon\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+D:\workstation\GitRepo\avtor-jdenticon\avtor-jdenticon\obj\Release\net5.0\PubTmp\Out\appsettings.json
+D:\workstation\GitRepo\avtor-jdenticon\avtor-jdenticon\obj\Release\net5.0\PubTmp\Out\avtor-jdenticon.dll
+D:\workstation\GitRepo\avtor-jdenticon\avtor-jdenticon\obj\Release\net5.0\PubTmp\Out\avtor-jdenticon.deps.json
+D:\workstation\GitRepo\avtor-jdenticon\avtor-jdenticon\obj\Release\net5.0\PubTmp\Out\avtor-jdenticon.runtimeconfig.json
+D:\workstation\GitRepo\avtor-jdenticon\avtor-jdenticon\obj\Release\net5.0\PubTmp\Out\avtor-jdenticon.pdb
+D:\workstation\GitRepo\avtor-jdenticon\avtor-jdenticon\obj\Release\net5.0\PubTmp\Out\Jdenticon.dll
+D:\workstation\GitRepo\avtor-jdenticon\avtor-jdenticon\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\workstation\GitRepo\avtor-jdenticon\avtor-jdenticon\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\workstation\GitRepo\avtor-jdenticon\avtor-jdenticon\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\workstation\GitRepo\avtor-jdenticon\avtor-jdenticon\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
